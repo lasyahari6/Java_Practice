@@ -1,5 +1,6 @@
 import java.util.*;
 class Practice{
+    /*learn and fun */
     public static void main(String[] args) {
     int i = 4;
     double d = 4.0;

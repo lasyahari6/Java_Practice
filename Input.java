@@ -1,6 +1,7 @@
 
 import java.util.*;
 public class Input {
+    /*how to get input from user */
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();

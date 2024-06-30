@@ -1,11 +1,10 @@
 import java.util.*;
 public class Datatypes {
+    /*Checking the range and telling the number which DATATYPE it */
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();
         for(int i=1;i<=n;i++){
-            
-                
                 try{
                     long x=s.nextLong();
                     System.out.println(x+" can be fitted in:");
