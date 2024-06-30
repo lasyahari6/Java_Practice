@@ -1,7 +1,5 @@
-
-
+/*pattern printing */
 public class Pattern {
-    /*pattern printing */
     public static void printPattern(int n)
     {
         int i, j;

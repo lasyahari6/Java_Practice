@@ -1,6 +1,6 @@
+/*Checking the range and telling the number which DATATYPE it */
 import java.util.*;
 public class Datatypes {
-    /*Checking the range and telling the number which DATATYPE it */
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();

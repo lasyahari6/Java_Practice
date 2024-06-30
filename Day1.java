@@ -1,7 +1,6 @@
+/*addition of integer, doubles and concatenation of string */
 import java.util.*;
-
 public class Day1 {
-	/*addition of integer, doubles and concatenation of string */
     public static void main(String[] args) {
         int i = 4;
         double d = 4.0;
