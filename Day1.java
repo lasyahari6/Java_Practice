@@ -10,7 +10,7 @@ public class Day1 {
         int i1=scan.nextInt();
         double d1=scan.nextDouble();
         scan.nextLine();
-        String s1=scan.next();
+        String s1=scan.nextLine();
         System.out.println(i1+i);
         System.out.println(d1+d);
         System.out.println(s+s1);
