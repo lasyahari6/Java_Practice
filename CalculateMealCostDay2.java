@@ -1,6 +1,6 @@
 /*calculate the meals cost by adding tip and tax percentage*/
 import java.util.*;
-public class Day2 {
+public class CalculateMealCostDay2 {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);     /*getting input from user*/
         double mealcost=scan.nextDouble();
