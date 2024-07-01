@@ -1,7 +1,7 @@
 /*Odd or Even*/
 import java.util.*;
 
-class Solution {
+class OddEven {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int n=scan.nextInt();
